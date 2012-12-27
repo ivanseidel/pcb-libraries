@@ -1,4 +1,4 @@
-PCB Libraries
+Altium Custom Components Library
 ===
 
 Altium Designer self made Integrated Library

@@ -8,3 +8,4 @@ Included development boards:
 
 Included IC's:
 * 74HC4067 (HP4067) - 16 Channel Multiplexer
+* ATSAM3X8EA-AU (Same as Arduino DUE board)
